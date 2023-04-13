@@ -130,6 +130,11 @@
   resolved "https://registry.yarnpkg.com/@hotwired/turbo/-/turbo-7.3.0.tgz#2226000fff1aabda9fd9587474565c9929dbf15d"
   integrity sha512-Dcu+NaSvHLT7EjrDrkEmH4qET2ZJZ5IcCWmNXxNQTBwlnE5tBZfN6WxZ842n5cHV52DH/AKNirbPBtcEXDLW4g==
 
+"@melloware/coloris@^0.18.0":
+  version "0.18.0"
+  resolved "https://registry.yarnpkg.com/@melloware/coloris/-/coloris-0.18.0.tgz#80be501412567cea699fcaf370f1a0576b44766e"
+  integrity sha512-XF0OiDVkqYuqscUWFe2uFJORIOsus5JB+AQ4hEFMJjM2xJTkzrCmsIFkTwxjt/2PXeZwuo50ZDcZIiW3X5ZG0Q==
+
 "@popperjs/core@^2.11.7":
   version "2.11.7"
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.7.tgz#ccab5c8f7dc557a52ca3288c10075c9ccd37fff7"
