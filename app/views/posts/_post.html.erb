@@ -1,22 +1,21 @@
-<div id="<%= dom_id post %>">
-  <p>
+<div id="<%= dom_id post %>" style="background-color: <%= post.background_color %>; padding: 20px;">
+  <p style="color: <%= post.font_color %>">
     <strong>Title:</strong>
     <%= post.title %>
   </p>
 
-  <p>
+  <p style="color: <%= post.font_color %>">
     <strong>Body:</strong>
     <%= post.body %>
   </p>
 
-  <p>
+  <p style="color: <%= post.font_color %>">
     <strong>Font color:</strong>
     <%= post.font_color %>
   </p>
 
-  <p>
+  <p style="color: <%= post.font_color %>">
     <strong>Background color:</strong>
     <%= post.background_color %>
   </p>
-
 </div>
